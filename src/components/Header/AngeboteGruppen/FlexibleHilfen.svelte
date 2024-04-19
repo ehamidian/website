@@ -1,1 +1,0 @@
-<h1>Flexible Hilfen</h1>
