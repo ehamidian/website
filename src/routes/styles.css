@@ -1,0 +1,15 @@
+@import '@fontsource/fira-mono';
+
+* {
+	box-sizing: border-box;
+	margin:0;
+}
+
+body {
+	font-family: "Roboto, sans-serif"
+}
+
+.nav-container{
+	background: #FFFFFF;
+	height: 57px;
+}
